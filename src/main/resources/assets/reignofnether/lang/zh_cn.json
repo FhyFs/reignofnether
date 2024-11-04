@@ -29,8 +29,8 @@
   "item.reignofnether.zoglin_unit_spawn_egg": "生成僵尸疣猪兽单位",
 
   "sounds.reignofnether.under_attack": "遭到袭击",
-  "sounds.reignofnether.victory": "游戏获胜",
-  "sounds.reignofnether.defeat": "失败",
+  "sounds.reignofnether.victory": "游戏胜利",
+  "sounds.reignofnether.defeat": "游戏失败",
   "sounds.reignofnether.chat": "聊天",
   "sounds.reignofnether.ally": "盟友",
   "sounds.reignofnether.neutral": "中立",
